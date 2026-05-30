@@ -1,0 +1,41 @@
+[33mcommit 4b32e7aa65f462f369cc4f8e8e4618ab491daef7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: kevin tuy <ktuy-2026320@kinal.edu.gt>
+Date:   Sat May 30 03:16:03 2026 +0200
+
+    007 se agregaron todas las clases
+
+[33mcommit d36007fcc803de47f42141d164ec3f22e25dd6c8[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: kevin tuy <ktuy-2026320@kinal.edu.gt>
+Date:   Sat May 30 02:24:55 2026 +0200
+
+    005 se agrego controller
+
+[33mcommit dc633fc6f5b4d2a432371756880dbfbf4e2e8908[m
+Author: kevin tuy <ktuy-2026320@kinal.edu.gt>
+Date:   Sat May 30 02:21:04 2026 +0200
+
+    004 se agrego la clase view
+
+[33mcommit d3c29b5df369ba20d44d6c5df7ddb2dc61b04dc0[m
+Author: kevin tuy <ktuy-2026320@kinal.edu.gt>
+Date:   Sat May 30 02:16:38 2026 +0200
+
+    003 se agrego  model.dao
+
+[33mcommit cd8ead72f4c156b25f0261a94b709026bfc50c16[m
+Author: kevin tuy <ktuy-2026320@kinal.edu.gt>
+Date:   Sat May 30 01:58:32 2026 +0200
+
+    002 se agrego el paquete model
+
+[33mcommit b11e7766971584fb25800e683d98895586c337c4[m
+Author: kevin tuy <ktuy-2026320@kinal.edu.gt>
+Date:   Sat May 30 01:54:05 2026 +0200
+
+    001 se agrego el model
+
+[33mcommit ea3c20777e932284753c6afed75395ef1c2a01c1[m
+Author: kevin tuy <ktuy-2026320@kinal.edu.gt>
+Date:   Sat May 30 01:26:44 2026 +0200
+
+    000 se agrego la clase main
